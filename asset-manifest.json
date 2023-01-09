@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FoodStop/static/css/main.073c9b0a.css",
+    "main.js": "/FoodStop/static/js/main.4db5e955.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/FoodStop/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/FoodStop/index.html",
+    "main.073c9b0a.css.map": "/FoodStop/static/css/main.073c9b0a.css.map",
+    "main.4db5e955.js.map": "/FoodStop/static/js/main.4db5e955.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/FoodStop/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4db5e955.js"
+  ]
+}
